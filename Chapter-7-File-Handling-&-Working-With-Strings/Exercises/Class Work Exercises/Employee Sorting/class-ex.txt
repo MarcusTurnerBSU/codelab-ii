@@ -1,0 +1,4 @@
+Joe Bloggs,43,BS2 4CV,40000	
+Karen Smith,23,EM1 5XY,24000
+Garry Jones,18,FG4 8NP,17500
+Phil Legg,54,BS1 5NE,37850
